@@ -1,0 +1,54 @@
+body {
+  background-color: #db6f6f;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: #fff;
+  font-size: 20px;
+}
+
+.title {
+  color: red;
+  background-color: aliceblue;
+  padding: 20px;
+}
+
+.age {
+  color: purple;
+  background-color: gray;
+  padding: 20px;
+  font-size: 30px;
+}
+
+.hide {
+  display: none;
+}
+
+.dark {
+  background-color: black;
+}
+
+input {
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+button {
+  font-size: 20px;
+  padding: 10px;
+}
+.hide {
+  display: none;
+}
